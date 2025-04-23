@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Smartphone",
+        "price": 29999,
+        "image": "/assets/product1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Laptop",
+        "price": 79999,
+        "image": "/assets/product2.jpg"
+    }
+]
